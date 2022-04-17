@@ -1,9 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 //NAMA  : FIKRIYA RACHMA DEWI
 //NIM   : 215150600111008
 public class Merchant {
